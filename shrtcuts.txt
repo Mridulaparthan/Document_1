@@ -1,0 +1,23 @@
+documentation (class,methods)
+ctrl shift o-orgnis imprts/order
+ctrl shft f -formatting code
+ctrl shft r- open files
+f3- navigation/control-imp,declare
+ctrl s-save
+ctrl z- undo
+ctrl y- redo
+ctrl a- select all
+ctrl f- find
+
+ctrlshft /-for commenting
+
+
+
+
+
+
+
+
+
+
+kubera
